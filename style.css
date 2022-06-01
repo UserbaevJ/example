@@ -1,24 +1,26 @@
-*{
+* {
     margin: 0;
     padding: 0;
     margin: 0 auto;
 }
-.body{
+
+.body {
     background-image: linear-gradient(yellow, green);
     height: 100vh;
     font-family: sans-serif;
     padding: 30px;
 }
-.container{
+
+.container {
     width: 1200px;
     margin: 0 auto;
 }
 
-.login{
+.login {
     text-align: right;
 }
 
-.login>a{
+.login>a {
     text-decoration: none;
     color: black;
     font-size: 24PX;
